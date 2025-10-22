@@ -68,7 +68,7 @@ VMware Tools 12.1.0 was the last regular release for macOS. An updated darwin.is
     * **Package Location (SP1):** [https://packages-prod.broadcom.com/tools/frozen/windows/WindowsToolsVista/SP1/](https://packages-prod.broadcom.com/tools/frozen/windows/WindowsToolsVista/SP1/)
   * **Note on Issues:** For a detailed analysis of issues and compatibility with Windows Vista, see this Gist reference: [https://gist.github.com/akemin-dayo/9f687c91e9e23bb724ac97b4a876a44f](https://gist.github.com/akemin-dayo/9f687c91e9e23bb724ac97b4a876a44f)
 * **Windows XP:** The last version to support Windows XP is 10.0.12 (archived here as `winPreVista.iso`).
-  * **Note on builds:** The version archived in this repository (from Workstation 17.5.2) is build **10.0.12-14792880** (packaged in 2019). The Broadcom [`frozen`](https://packages-prod.broadcom.com/tools/frozen/) repository holds an older build, **10.0.12-444849614792880** (packaged in 2016).
+  * **Note on builds:** The version archived in this repository (from Workstation 17.5.2) is build **10.0.12-14792880** (packaged in 2019). The Broadcom [`frozen`](https://packages-prod.broadcom.com/tools/frozen/) repository holds an older build, **10.0.12-4448496** (packaged in 2016).
 
 ## Sources & References
 
