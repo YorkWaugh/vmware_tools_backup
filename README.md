@@ -23,7 +23,7 @@ The `isoimages_manifest.txt` file (from a Workstation 25H2 release) is included 
 | [`linuxPreGlibc25.iso`](https://github.com/YorkWaugh/vmware_tools_backup/releases/download/Archives/linuxPreGlibc25.iso) | 10.0.12-14792880 |
 | [`netware.iso`](https://github.com/YorkWaugh/vmware_tools_backup/releases/download/Archives/netware.iso) | 8.1.0-1463223 |
 | [`solaris.iso`](https://github.com/YorkWaugh/vmware_tools_backup/releases/download/Archives/solaris.iso) | 10.3.23-17030940 |
-| [`windows.iso`](https://github.com/YorkWaugh/vmware_tools_backup/releases/download/Archives/windows.iso) | 13.0.5-24915695 |
+| [`windows.iso`](https://github.com/YorkWaugh/vmware_tools_backup/releases/download/Archives/windows.iso) | 13.0.10-25056151 |
 | [`windows-x86.iso`](https://github.com/YorkWaugh/vmware_tools_backup/releases/download/Archives/windows-x86.iso) | 12.4.9-24964244 |
 | [`winPre2k.iso`](https://github.com/YorkWaugh/vmware_tools_backup/releases/download/Archives/winPre2k.iso) | 7.7.0-1463223 |
 | [`winPreVista.iso`](https://github.com/YorkWaugh/vmware_tools_backup/releases/download/Archives/winPreVista.iso) | 10.0.12-14792880 |
