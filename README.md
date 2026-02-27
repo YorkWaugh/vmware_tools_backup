@@ -12,7 +12,7 @@ The purpose of this archive is to preserve the legacy and "frozen" versions for 
 
 The versions archived here correspond to the bundle found in Workstation 17.5.2 and Fusion 13.5.2, cross-referenced with the Broadcom support portal and official package repository. With the exception of `windows.iso` (which is still actively updated), these are believed to be the final "frozen" releases for their respective legacy operating systems.
 
-The `isoimages_manifest.txt` file (from a Workstation 25H2 release) is included in this repository to show which Guest OS settings map to which ISO filename.
+The `isoimages_manifest.txt` file is included in this repository to show which Guest OS settings map to which ISO filename.
 
 | ISO Filename (Archived) | Last Known Version |
 | :--- | :--- |
@@ -75,6 +75,6 @@ VMware Tools 12.1.0 was the last regular release for macOS. An updated darwin.is
 * **Version Baseline:** VMware-workstation-full-17.5.2-23775571.exe, VMware-Fusion-13.5.2-23775688_universal.dmg
 * **Broadcom Support Download Portal:** [https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware Tools&freeDownloads=true](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Tools&freeDownloads=true)
 * **Official Package Repository:** [https://packages-prod.broadcom.com/tools/](https://packages-prod.broadcom.com/tools/)
-* **Guest OS Mapping:** [`isoimages_manifest.txt`](isoimages_manifest.txt) (from Workstation 25H2 (25.0.0.24995812), included in this repository)
+* **Guest OS Mapping:** [`isoimages_manifest.txt`](isoimages_manifest.txt) (from Workstation 25H2u1 (25.0.1.25219725), included in this repository)
 * **Overview of VMware Tools (KB Article):** [https://knowledge.broadcom.com/external/article/315382/overview-of-vmware-tools.html](https://knowledge.broadcom.com/external/article/315382/overview-of-vmware-tools.html)
 * **Internet Archive (VMware):** [https://archive.org/search?query=creator:"VMWare"](https://archive.org/search?query=creator%3A%22VMWare%22)
