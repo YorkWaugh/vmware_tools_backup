@@ -75,6 +75,6 @@ VMware Tools 12.1.0 was the last regular release for macOS. An updated darwin.is
 * **Version Baseline:** VMware-workstation-full-17.5.2-23775571.exe, VMware-Fusion-13.5.2-23775688_universal.dmg
 * **Broadcom Support Download Portal:** [https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware Tools&freeDownloads=true](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Tools&freeDownloads=true)
 * **Official Package Repository:** [https://packages-prod.broadcom.com/tools/](https://packages-prod.broadcom.com/tools/)
-* **Guest OS Mapping:** [`isoimages_manifest.txt`](isoimages_manifest.txt) (from Workstation 25H2u1 (25.0.1.25219725), included in this repository)
+* **Guest OS Mapping:** [`isoimages_manifest.txt`](isoimages_manifest.txt) (from Workstation 26H1 (26.0.0.25388281), included in this repository)
 * **Overview of VMware Tools (KB Article):** [https://knowledge.broadcom.com/external/article/315382/overview-of-vmware-tools.html](https://knowledge.broadcom.com/external/article/315382/overview-of-vmware-tools.html)
 * **Internet Archive (VMware):** [https://archive.org/search?query=creator:"VMWare"](https://archive.org/search?query=creator%3A%22VMWare%22)
